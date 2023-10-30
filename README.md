@@ -1,0 +1,1 @@
+# Mini-Shougi-AI-School-Project-
